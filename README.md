@@ -1,5 +1,7 @@
 # BitArray
 
+[![GoDoc](https://godoc.org/github.com/bradenaw/bitarray?status.svg)](https://godoc.org/github.com/bradenaw/bitarray)
+
 Provides a structure for efficiently representing arrays of k-bit elements.
 
 ```
